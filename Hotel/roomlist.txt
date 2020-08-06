@@ -1,0 +1,3 @@
+[sold] SweetRoom : 1010호 (4명) 혜택 : spa/ lounge
+[sold] DeluxeRoom : 710호 (3명) 혜택 : spa
+[sold] StandardRoom : 510호 (2명) 
